@@ -53,6 +53,7 @@
 "ui.text.focus" = { fg = "#dbbfef"} # lilac
 
 "ui.selection" = { bg = "#540099" }
+"ui.selection.cursor" = { modifiers = ["reversed"] }
 "ui.menu.selected" = { fg = "#281733", bg = "#ffffff" } # revolver
 
 "warning" = "#ffcd1c"
